@@ -4,25 +4,13 @@
             "type": "twitter",
             "title": "Twitter",
             "icon": "fa-twitter",
-            "url": "https://twitter.com/"
-        },
-        {
-            "type": "instagram",
-            "title": "Instagram",
-            "icon": "fa-instagram",
-            "url": "https://www.instagram.com/"
-        },
-        {
-            "type": "dribbble",
-            "title": "Dribbble",
-            "icon": "fa-dribbble",
-            "url": "https://dribbble.com/"
+            "url": "https://twitter.com/moneerrifai"
         },
         {
             "type": "linkedin",
             "title": "LinkedIn",
             "icon": "fa-linkedin",
-            "url": "https://www.linkedin.com/"
+            "url": "https://www.linkedin.com/in/moneerrifai/"
         }
     ]
 }
