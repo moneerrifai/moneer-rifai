@@ -1,15 +1,16 @@
-title: Stackbit Exto Theme
+title: Moneer Rifai - Cloud Developer
 baseURL: /
 params:
   color_scheme: light
-  accent_color: pink
+  accent_color: blue
   header:
-    title: Exto
+    title: Moneer Rifai
     has_nav: true
+    has_social: true
   footer:
-    content: '&copy; Stackbit-Exto. All rights reserved.'
+    content: '&copy; Moneer Rifai. All rights reserved.'
     links:
-      - text: Made with Stackbit
+      - text: Made with ☕ and ❤️ and Stackbit
         url: 'https://www.stackbit.com'
         new_window: true
     has_social: true
