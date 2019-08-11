@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: This is a short page about us and our work.
-img_path: images/moneer.png
+img_path: images/wide.png
 menu:
   main:
     name: About
