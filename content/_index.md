@@ -6,7 +6,7 @@ sections:
     section_id: hero
     component: hero_block.html
     content: >-
-      Are you curious about what's considered the hottest and most in-demand area of tech? Well you came to the right place!
+      Are you curious about what's considered the hottest and most in-demand area of tech? <a href="https://www.moneerrifai.com/contact/">Contact me</a> or learn more [about me](https://www.moneerrifai.com/about/)
   - type: postsblock
     title: Latest from the Blog
     section_id: latest-posts
