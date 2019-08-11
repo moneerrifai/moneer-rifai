@@ -78,3 +78,9 @@ menu:
     weight: 1
 layout: home
 ---
+
+Hello,
+
+My name is Moneer. I am a developer that works at Infor. I live in Iowa City, IA. 
+
+I am honored to have you visit my site, where I put in a lot of work and effort to provie you value.
