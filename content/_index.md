@@ -9,10 +9,11 @@ sections:
       Are you curious about what's considered the hottest and most in-demand area of tech? <a href="https://www.moneerrifai.com/contact/">Contact me</a> or learn more [about me](https://www.moneerrifai.com/about/)
       <br>
       <ul>
-        <li>Developer</li>
-        <li>Cloud Architect</li>
-        <li>Coffee drinker</li>
+        <li>Developer 💻</li>
+        <li>Cloud Architect ☁ </li>
+        <li>Coffee drinker </li>
       </ul>
+      <img src="images/moneer.png" alt="Smiley face" height="42" width="42">
   - type: postsblock
     title: Latest from the Blog
     section_id: latest-posts
