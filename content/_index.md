@@ -13,7 +13,7 @@ sections:
         <li>Cloud Architect ☁ </li>
         <li>Coffee drinker </li>
       </ul>
-      <img src="images/moneer.png" alt="Smiley face" height="42" width="42">
+      <img src="images/moneer.png" alt="Smiley face" height="400" width="400">
   - type: postsblock
     title: Latest from the Blog
     section_id: latest-posts
