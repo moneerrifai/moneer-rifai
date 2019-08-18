@@ -1,7 +1,7 @@
 ---
 title: eBook
 subtitle: The Cloud Developer eBook
-img_path: images/moneer.png
+img_path: images/theclouddeveloper.png
 menu:
   main:
     name: Free eBook
