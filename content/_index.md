@@ -7,9 +7,8 @@ sections:
     component: hero_block.html
     content: >-
       <img src="images/moneer.png" alt="Smiley face" height="400" width="400" style="display:block;margin-left:auto;margin-right:auto;width:50%;margin-top:15px;margin-bottom:15px;">
-      Are you curious about what's considered the hottest and most in-demand area of tech? <a href="https://www.moneerrifai.com/contact/">Contact me</a> or learn more [about me](https://www.moneerrifai.com/about/)
+      My name is Moneer and I am a cloud developer at <a href="https://wwww.infor.com">Infor</a>. "What is a cloud developer?" you might ask. It is one of the most in-demand areas of tech and I am on a mission to help others break into this exciting field. Please <a href="https://wwww.moneerrifai.com/ebook">grab my free eBook</a>, check out my <a href="https://wwww.moneerrifai.com/blog">blog</a>, or <a href="https://wwww.moneerrifai.com/contact">get in touch</a>
       <br>
-      # <p>I am a cloud deverloper at Infor. I run the Cloud Dev Academy blog and YouTube channel. I am passionate about development, cloud, and helping YOU break into the industry. Take a look around my website or send me a message to say hi!</p>
   - type: postsblock
     title: Latest from the Blog
     section_id: latest-posts
