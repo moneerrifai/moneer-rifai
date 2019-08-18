@@ -8,7 +8,7 @@ menu:
 layout: page
 ---
 
-<img src="mages/theclouddeveloper.png"  height="600" width="400">
+<img src="images/theclouddeveloper.png"  height="600" width="400">
 
 <button onclick="ml_account('webforms', '1433910', 'h4o1h5', 'show')">
   Click here to show popup
