@@ -1,13 +1,14 @@
 ---
 title: eBook
 subtitle: The Cloud Developer eBook
-img_path: images/theclouddeveloper.png
 menu:
   main:
     name: Free eBook
     weight: 2
 layout: page
 ---
+
+<img src="mages/theclouddeveloper.png"  height="600" width="400">
 
 <button onclick="ml_account('webforms', '1433910', 'h4o1h5', 'show')">
   Click here to show popup
