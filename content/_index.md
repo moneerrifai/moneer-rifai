@@ -6,7 +6,7 @@ sections:
     section_id: hero
     component: hero_block.html
     content: >-
-      <img src="images/moneer.png" alt="Smiley face" height="400" width="400" style="display:block;margin-left:auto;margin-right:auto;width:50%;margin-top:15px;margin-bottom:15px;">
+      <img src="images/moneer.png" height="400" width="400" style="display:block;margin-left:auto;margin-right:auto;width:50%;margin-top:25px;margin-bottom:25px;">
       Hello 👋! My name is Moneer and I am a cloud developer 💻 at <a href="https://wwww.infor.com">Infor</a>. I am on a mission to help others break into the exciting field of cloud and DevOps. Grab my free <a href="https://wwww.moneerrifai.com/ebook">eBook</a> 📘,     check out my <a href="https://wwww.moneerrifai.com/blog">blog</a>, or <a href="https://wwww.moneerrifai.com/contact">get in touch </a> ✉️
       <br>
   - type: postsblock
@@ -18,15 +18,15 @@ sections:
     actions:
       - label: View Blog
         url: blog/index.html
-  - type: portfolioblock
-    title: Recent Work
-    section_id: latest-projects
-    component: portfolio_block.html
-    subtitle: An optional subtitle of the section
-    layout_style: mosaic
-    num_projects_displayed: 6
-    view_all_text: View All
-    view_all_url: portfolio/index.html
+  # - type: portfolioblock
+  #   title: Recent Work
+  #   section_id: latest-projects
+  #   component: portfolio_block.html
+  #   subtitle: An optional subtitle of the section
+  #   layout_style: mosaic
+  #   num_projects_displayed: 6
+  #   view_all_text: View All
+  #   view_all_url: portfolio/index.html
   # - type: servicesblock
   #   title: What We Do
   #   section_id: services
@@ -69,11 +69,11 @@ sections:
   #         Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
   #         convallis, interdum ligula vel, pretium diam. Integer commodo sem at
   #         dui sollicitudin, vel posuere justo laoreet.
-  - type: contactblock
-    title: Contact Us
-    section_id: contact
-    component: contact_block.html
-    subtitle: An optional subtitle of the section
+  # - type: contactblock
+  #   title: Contact Us
+  #   section_id: contact
+  #   component: contact_block.html
+  #   subtitle: An optional subtitle of the section
 menu:
   main:
     name: Home
