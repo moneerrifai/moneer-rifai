@@ -1,10 +1,10 @@
 ---
-title: Ebook
-subtitle: The Cloud Developer Ebook
+title: eBook
+subtitle: The Cloud Developer eBook
 img_path: images/moneer.png
 menu:
   main:
-    name: ebook
+    name: Free eBook
     weight: 2
 layout: page
 ---
