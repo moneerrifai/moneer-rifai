@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: heroblock
-    title: 'I am a cloud developer on a mission to help YOU level up 🚀' 
+    title: 'On a mission to help <strong>YOU</strong> level up 🚀' 
     section_id: hero
     component: hero_block.html
     content: >-
