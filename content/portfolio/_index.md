@@ -5,7 +5,7 @@ layout_style: mosaic
 menu:
   main:
     name: Portfolio
-    weight: 2
+    weight: 6
 layout: portfolio
 draft: true
 ---

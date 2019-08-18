@@ -1,11 +1,11 @@
 ---
-title: About Me
-subtitle: This is a short page about us and our work.
+title: Ebook
+subtitle: The Cloud Developer Ebook
 img_path: images/moneer.png
 menu:
   main:
-    name: About
-    weight: 4
+    name: ebook
+    weight: 2
 layout: page
 ---
 
