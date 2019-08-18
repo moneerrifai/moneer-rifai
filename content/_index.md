@@ -9,11 +9,12 @@ sections:
       <img src="images/moneer.png" height="400" width="400" style="display:block;margin-left:auto;margin-right:auto;width:50%;margin-top:25px;margin-bottom:25px;">
       Hello 👋! My name is Moneer and I am a cloud developer 💻 at <a href="https://www.infor.com" target="_blank">Infor</a>. I am on a mission to help others break into the exciting field of cloud and DevOps
       <br> 
-      📘 Grab my free <a href="https://www.moneerrifai.com/ebook">eBook</a>
+      <br> 
+      <p style="text-align:center;">📘 Grab my free <a href="https://www.moneerrifai.com/ebook">eBook</a></p>
       <br>     
-      📰 check out my <a href="https://www.moneerrifai.com/blog">blog</a> 
+      <p style="text-align:center;">📰 Check out my <a href="https://www.moneerrifai.com/blog">blog</a></p>
       <br>
-      ✉️ <a href="https://www.moneerrifai.com/contact">Get in touch </a>
+      <p style="text-align:center;">📞 <a href="https://www.moneerrifai.com/contact">Contact</a> me</p>
       <br>
   - type: postsblock
     title: Latest from the Blog
