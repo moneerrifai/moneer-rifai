@@ -7,7 +7,7 @@ sections:
     component: hero_block.html
     content: >-
       <img src="images/moneer.png" alt="Smiley face" height="400" width="400" style="display:block;margin-left:auto;margin-right:auto;width:50%;margin-top:15px;margin-bottom:15px;">
-      Hello 👋! My name is Moneer and I am a cloud developer 💻 at <a href="https://wwww.infor.com">Infor</a>. I am on a mission to help others break into the exciting field of cloud and DevOps. Grabbing my free <a href="https://wwww.moneerrifai.com/ebook">eBook 📘</a>, check out my <a href="https://wwww.moneerrifai.com/blog">blog</a>, or <a href="https://wwww.moneerrifai.com/contact">get in touch ✉️</a>
+      Hello 👋! My name is Moneer and I am a cloud developer 💻 at <a href="https://wwww.infor.com">Infor</a>. I am on a mission to help others break into the exciting field of cloud and DevOps. Grab my free <a href="https://wwww.moneerrifai.com/ebook">eBook</a> 📘,check out my <a href="https://wwww.moneerrifai.com/blog">blog</a>, or <a href="https://wwww.moneerrifai.com/contact">get in touch </a> ✉️
       <br>
   - type: postsblock
     title: Latest from the Blog
