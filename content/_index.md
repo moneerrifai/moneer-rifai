@@ -10,8 +10,8 @@ sections:
       Hello 👋! My name is Moneer and I am a cloud developer 💻 at <a href="https://www.infor.com" target="_blank">Infor</a>. I am on a mission to help others break into the exciting field of cloud and DevOps
       <br> 
       <p style="text-align:center;">
-        📘 Grab my free <a href="https://www.moneerrifai.com/ebook">eBook</a>
-        📰 Check out my <a href="https://www.moneerrifai.com/blog">blog</a>
+        📘 Grab my free <a href="https://www.moneerrifai.com/ebook">eBook</a><br>
+        📰 Check out my <a href="https://www.moneerrifai.com/blog">blog</a><br>
         📞 <a href="https://www.moneerrifai.com/contact">Contact</a> me
       </p>
       # <p style="text-align:center;">📘 Grab my free <a href="https://www.moneerrifai.com/ebook">eBook</a></p>
