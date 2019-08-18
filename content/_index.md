@@ -12,7 +12,6 @@ sections:
       <p style="text-align:center;">📘 Grab my free <a href="https://www.moneerrifai.com/ebook">eBook</a></p>
       <p style="text-align:center;">📰 Check out my <a href="https://www.moneerrifai.com/blog">blog</a></p>
       <p style="text-align:center;">📞 <a href="https://www.moneerrifai.com/contact">Contact</a> me</p>
-      <br>
   - type: postsblock
     title: Latest from the Blog
     section_id: latest-posts
