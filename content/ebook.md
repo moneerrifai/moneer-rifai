@@ -17,9 +17,11 @@ What does this mean?
 It means that mastering these skills will unlock endless opportunities.
 
 In this eBook, you will learn:
-+ the exact steps to unleash your cloud career
-+ the potential pitfalls and mistakes to avoid
-+ how to apply for jobs and excel at technical interviews and code challenges
+<ul>
+  <li>the exact steps to unleash your cloud career</li>
+  <li>the potential pitfalls and mistakes to avoid</li>
+  <li>how to apply for jobs and excel at technical interviews and code challenges</li>
+</ul>
 
 <div style="display:flex;flex-direction:column;justify-content:center;align-items:center;">
   <button onclick="ml_account('webforms', '1433910', 'h4o1h5', 'show')">
