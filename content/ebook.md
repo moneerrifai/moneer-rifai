@@ -17,7 +17,7 @@ In this eBook, I walk you through the exact steps that you need to follow to tak
 Whether you're a beginner or you have some experience, get my blueprint to unleash your cloud career now!
 
 <div style="float:center;">
-  <button onclick="ml_account('webforms', '1433910', 'h4o1h5', 'show')">
+  <button onclick="ml_account('webforms', '1433910', 'h4o1h5', 'show')" style="float:center;">
     Get the eBook Now!
   </button>
 
