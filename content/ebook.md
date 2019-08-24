@@ -8,22 +8,25 @@ menu:
 layout: page
 ---
 
-<button onclick="ml_account('webforms', '1433910', 'h4o1h5', 'show')" style="float:right;">
+>In 2019, Cloud Computing was the #1 sought-after skill. - LinkedIn
+
+<p style="float:center;">
+  According to the experts, the need for professionals who can write code and understand cloud architecture is hitting a "crisis level".
+  What does this mean? It means that mastering these skills will unlock endless opportunities.
+  In this eBook, I walk you through the exact steps that you need to follow to take advantage of this opportunity, and I share with you the mistakes that you need to avoid. 
+
+  Whether you're a beginner or you have some experience, get my blueprint to unleash your cloud career now!
+</p>
+
+<button onclick="ml_account('webforms', '1433910', 'h4o1h5', 'show')" style="float:center;">
   Get the eBook Now!
 </button>
 
-<img src="/images/ebook.png"  height="900" width="600" style="float:right;">
+<img src="/images/ebook.png"  height="900" width="600" style="float:center;">
 
-<p>
-  My name is Moneer. I am a developer that works at Infor. I live in Iowa City, IA. 
-  My name is Moneer. I am a developer that works at Infor. I live in Iowa City, IA. 
-  My name is Moneer. I am a developer that works at Infor. I live in Iowa City, IA. 
-  My name is Moneer. I am a developer that works at Infor. I live in Iowa City, IA. 
-</p>
+
 
 Thank you for visiting my site!
-
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
 
 My name is Moneer. I am a developer that works at Infor. I live in Iowa City, IA. 
 
