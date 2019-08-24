@@ -8,15 +8,18 @@ menu:
 layout: page
 ---
 
-<button onclick="ml_account('webforms', '1433910', 'h4o1h5', 'show')">
+<button onclick="ml_account('webforms', '1433910', 'h4o1h5', 'show')" style="float:right;">
   Get the eBook Now!
 </button>
 
 <img src="/images/ebook.png"  height="900" width="600" style="float:right;">
 
-<button onclick="ml_account('webforms', '1433910', 'h4o1h5', 'show')">
-  Click here to show popup
-</button>
+<p>
+  My name is Moneer. I am a developer that works at Infor. I live in Iowa City, IA. 
+  My name is Moneer. I am a developer that works at Infor. I live in Iowa City, IA. 
+  My name is Moneer. I am a developer that works at Infor. I live in Iowa City, IA. 
+  My name is Moneer. I am a developer that works at Infor. I live in Iowa City, IA. 
+</p>
 
 Thank you for visiting my site!
 
