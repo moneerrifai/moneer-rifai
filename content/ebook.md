@@ -7,9 +7,8 @@ menu:
     weight: 2
 layout: page
 ---
-<div>
-  <img src="/images/ebook.png"  height="900" width="600" onclick="ml_account('webforms', '1433910', 'h4o1h5', 'show')>
-</div>
+
+<img src="/images/ebook.png"  height="900" width="600" onclick="ml_account('webforms', '1433910', 'h4o1h5', 'show')>
 
 >According to LinkedIn, Cloud Computing was the #1 sought-after skill in 2019, and shortage of professionals is hitting a "crisis level"
 
