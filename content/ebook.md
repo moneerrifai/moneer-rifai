@@ -7,8 +7,8 @@ menu:
     weight: 2
 layout: page
 ---
-<img src="/images/ebook.png"  height="900" width="600" onclick="ml_account('webforms', '1433910', 'h4o1h5', 'show')">
 >According to LinkedIn, Cloud Computing was the #1 sought-after skill in 2019, and shortage of professionals is hitting a "crisis level"
+
 What does this mean? 
 
 It means that mastering these skills will unlock endless opportunities.
@@ -32,7 +32,7 @@ In this eBook, you will learn:
 </div>
 
 
-<style type="text/css">
+<!-- <style type="text/css">
   @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic);
 </style>
 <style type="text/css">
@@ -431,4 +431,4 @@ In this eBook, you will learn:
     }
 </script>
 <img src="https://track.mailerlite.com/webforms/o/1433910/h4o1h5?vd890ed88b3a28c805acc70e1a88fa27c" width="1" height="1" style="max-width: 1px; max-height: 1px; visibility: hidden; padding: 0; margin: 0; display: block;" border="0">
-<script src="https://static.mailerlite.com/js/w/webforms.min.js?vd890ed88b3a28c805acc70e1a88fa27c" type="text/javascript"></script>
+<script src="https://static.mailerlite.com/js/w/webforms.min.js?vd890ed88b3a28c805acc70e1a88fa27c" type="text/javascript"></script> -->
