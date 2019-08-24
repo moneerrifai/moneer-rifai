@@ -1,6 +1,6 @@
 ---
-title: eBook
-subtitle: The Cloud Developer eBook
+title: The Cloud Developer eBook
+subtitle: The Ultimate Guide to the Hottest Skill of 2019 
 menu:
   main:
     name: Free eBook
