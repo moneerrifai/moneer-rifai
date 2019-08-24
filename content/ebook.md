@@ -12,7 +12,7 @@ layout: page
   Get the eBook Now!
 </button>
 
-<img src="/images/ebook.png"  height="600" width="400">
+<img src="/images/ebook.png"  height="900" width="600">
 
 <button onclick="ml_account('webforms', '1433910', 'h4o1h5', 'show')">
   Click here to show popup
