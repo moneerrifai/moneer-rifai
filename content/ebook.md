@@ -8,13 +8,18 @@ menu:
 layout: page
 ---
 
->In 2019, Cloud Computing was the #1 sought-after skill. - LinkedIn
+>According to LinkedIn, Cloud Computing was the #1 sought-after skill in 2019
 
-According to the experts, the need for professionals who can write code and understand cloud architecture is hitting a "crisis level".
-What does this mean? It means that mastering these skills will unlock endless opportunities.
-In this eBook, I walk you through the exact steps that you need to follow to take advantage of this opportunity, and I share with youthe mistakes that you need to avoid. 
+The need for professionals who can write code and understand cloud architecture is hitting a "crisis level".
 
-Whether you're a beginner or you have some experience, get my blueprint to unleash your cloud career now!
+What does this mean? 
+
+It means that mastering these skills will unlock endless opportunities.
+
+In this eBook, you will learn:
+⋅⋅* the exact steps to unleash your cloud career
+⋅⋅* the potential pitfalls and mistakes to avoid
+⋅⋅* how to apply for jobs and excel at technical interviews and code challenges
 
 <div style="display:flex;flex-direction:column;justify-content:center;align-items:center;">
   <button onclick="ml_account('webforms', '1433910', 'h4o1h5', 'show')">
@@ -22,10 +27,12 @@ Whether you're a beginner or you have some experience, get my blueprint to unlea
   </button>
 
   <img src="/images/ebook.png"  height="900" width="600">
+
+  <button onclick="ml_account('webforms', '1433910', 'h4o1h5', 'show')">
+    Get the eBook Now!
+  </button>
 </div>
 
-
-*Thank You for reading!*
 
 <style type="text/css">
   @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic);
