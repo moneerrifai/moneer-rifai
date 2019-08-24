@@ -11,11 +11,8 @@ layout: page
 >According to LinkedIn, Cloud Computing was the #1 sought-after skill in 2019
 
 The need for professionals who can write code and understand cloud architecture is hitting a "crisis level".
-
 What does this mean? 
-
 It means that mastering these skills will unlock endless opportunities.
-
 In this eBook, you will learn:
 <ul>
   <li>the exact steps to unleash your cloud career</li>
