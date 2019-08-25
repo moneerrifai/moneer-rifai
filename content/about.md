@@ -47,7 +47,7 @@ This career switch was not easy, and was fraught with uncertainty, doubts, and m
 
 #### Download My Résumé <a name="resume"></a>
 
-You can download a PDF version of my résumé by clicking on [this link](https://moneerrifai.com/resume.pdf).
+You can download a PDF version of my résumé by clicking on <a href="https://moneerrifai.com/resume.pdf" target="_blank">this link</a>.
 
 
 #### Personal Story <a name="personalstory"></a>
