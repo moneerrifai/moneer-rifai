@@ -47,7 +47,8 @@ This career switch was not easy, and was fraught with uncertainty, doubts, and m
 
 #### Download My Résumé <a name="resume"></a>
 
-You can download a PDF version of my résumé by clicking on this link.
+You can download a PDF version of my résumé by clicking on [this link](https://moneerrifai.com/resume.pdf).
+
 
 #### Personal Story <a name="personalstory"></a>
 
@@ -71,15 +72,5 @@ While I love tech, there is so much more outside the world of tech that I enjoy,
 - Speaking: I joined Toastmasters in 2017 and it has been a great experience so far. After being very uncomfortable with public speaking, I learned to get over my discomfort and started improving my communication and leadership skills. I have spoken at various tech events and several community events, where I had the honor of using my voice to promote peace and understanding.
 
 - Mentoring: empowering others, in any way that I can, is one of the most important goals that I have. To that extent, I am committed to helping others in the areas where I can provide value. Please check out my contact page if you think I have anything of value that I can provide to you.
-
-#### Personal Story
-
-I was born and raised in Lebanon, in the Middle East. My family is of Palestinian origin who left Palestine in 1948. It is a long story but Palestinians in Lebanon never became citizens and that's why I describe my family background as Palestinian and not Lebanese. 
-
-I moved to the US (Minnesota) in 2000 to attend university. In 2007 I met my amazing wife Emma and we got married in 2009. We now live in Iowa City, IA where she is pursuing her PhD in religious studies and expects to graduate soon. We have 2 cats named Mulder and Scully (if you're younger than 30, you might not get the reference!)
-
-I work remotely, which I really enjoy. I split my days between working from my home office and a local coworking space in Iowa City.
-
-
 
 *Thank You for reading!*
