@@ -1,18 +1,20 @@
 ---
 title: About Me
-subtitle: What I Do and How I Can Help You
-img_path: images/moneer.png
 menu:
   main:
     name: About
     weight: 4
 layout: page
 ---
-First of all, thank you for wanting to learn more about me. This page contains some information about my background, areas of expertise, and general information about me.
+First of all, thank you for wanting to learn more about me. This page contains some information about my professional and personal background, as well as a download link to my résumé. 
 
 #### Table of Contents
   * [Professional Skills](#professionalskills)
+  * [Career History](#careerhistory)
+  * [Download My Résumé](#resume)
+  * [Personal Story](#personalstory)
   * [Hobbies and Interests](#hobbiesandinterests)
+
 
 #### Professional Skills <a name="professionalskills"></a>
 
@@ -32,6 +34,30 @@ Some of my skills:
 - Tools
   Git, Docker, VS Code
 
+#### Career History <a name="careerhistory"></a>
+
+After getting a B.S. in physics from Minnesota State University Moorhead, I started out doing entry-level tech support in Fargo, ND. Over the following several years, I taught myself networking and gained a few certifications and ended up working as a network engineer for a few companies and institutions, mainly in the upper midwest and the Seattle area. 
+
+In 2017, I caught the cloud bug and realized that the future is in the cloud and that I need to level up my skills if I want to be part of the future. After finding myself unhappy with my career at the time, I decided to take a huge risk and quit my secure (but unfulfilling) job, and dedicate a few months to upgrading my skills.
+
+The gamble paid off: while it took longer than expected and was not executed perfectly, months later I landed my first role as developer, and the rest is history.
+
+This career switch was not easy, and was fraught with uncertainty, doubts, and mistakes. With that being said, I realize that I am very lucky to be able to quit an unfulfilling job and have the luxury of taking time off to upgrade my skills. I know many people have responsibilities that make this unrealistic, and that's why I am committed to helping others navigate that journey and learn from my mistakes and find their dream career with the least amount of risk and struggle.
+
+
+#### Download My Résumé <a name="resume"></a>
+
+You can download a PDF version of my résumé by clicking on this link.
+
+#### Personal Story <a name="personalstory"></a>
+
+I was born and raised in Lebanon, in the Middle East. My family is of Palestinian origin who left Palestine in 1948. It is a long story but Palestinians in Lebanon never became citizens and that's why I describe my family background as Palestinian and not Lebanese. 
+
+I moved to the US (Minnesota) in 2000 to attend university. In 2007 I met my amazing wife Emma and we got married in 2009. We now live in Iowa City, IA where she is pursuing her PhD in religious studies and expects to graduate soon. We have 2 cats named Mulder and Scully (if you're younger than 30, you might not get the reference!)
+
+I work remotely, which I really enjoy. I split my days between working from my home office and a local coworking space in Iowa City.
+
+
 #### Hobbies and Interests <a name="hobbiesandinterests"></a>
 
 While I love tech, there is so much more outside the world of tech that I enjoy, like:
@@ -45,16 +71,6 @@ While I love tech, there is so much more outside the world of tech that I enjoy,
 - Speaking: I joined Toastmasters in 2017 and it has been a great experience so far. After being very uncomfortable with public speaking, I learned to get over my discomfort and started improving my communication and leadership skills. I have spoken at various tech events and several community events, where I had the honor of using my voice to promote peace and understanding.
 
 - Mentoring: empowering others, in any way that I can, is one of the most important goals that I have. To that extent, I am committed to helping others in the areas where I can provide value. Please check out my contact page if you think I have anything of value that I can provide to you.
-
-#### Professional Story
-
-After getting a B.S. in physics from Minnesota State University Moorhead, I started out doing entry-level tech support in Fargo, ND. Over the following several years, I taught myself networking and gained a few certifications and ended up working as a network engineer for a few companies and institutions, mainly in the upper midwest and the Seattle area. 
-
-In 2017, I caught the cloud bug and realized that the future is in the cloud and that I need to level up my skills if I want to be part of the future. After finding myself unhappy with my career at the time, I decided to take a huge risk and quit my secure (but unfulfilling) job, and dedicate a few months to upgrading my skills.
-
-The gamble paid off: while it took longer than expected and was not executed perfectly, months later I landed my first role as developer, and the rest is history.
-
-This career switch was not easy, and was fraught with uncertainty, doubts, and mistakes. With that being said, I realize that I am very lucky to be able to quit an unfulfilling job and have the luxury of taking time off to upgrade my skills. I know many people have responsibilities that make this unrealistic, and that's why I am committed to helping others navigate that journey and learn from my mistakes and find their dream career with the least amount of risk and struggle.
 
 #### Personal Story
 
