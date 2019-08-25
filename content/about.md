@@ -10,7 +10,11 @@ layout: page
 ---
 First of all, thank you for wanting to learn more about me. This page contains some information about my background, areas of expertise, and general information about me.
 
-#### Professional Skills
+#### Table of Contents
+  * [Professional Skills](#professionalskills)
+  * [Hobbies and Interests](#hobbiesandinterests)
+
+#### Professional Skills <a name="professionalskills"></a>
 
 I am a cloud developer. What does that mean?
 
@@ -28,7 +32,7 @@ Some of my skills:
 - Tools
   Git, Docker, VS Code
 
-#### Hobbies and Interests
+#### Hobbies and Interests <a name="hobbiesandinterests"></a>
 
 While I love tech, there is so much more outside the world of tech that I enjoy, like:
 
