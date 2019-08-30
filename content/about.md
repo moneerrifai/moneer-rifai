@@ -14,7 +14,7 @@ First of all, thank you for wanting to learn more about me. This page contains s
   * [Download My Résumé](#resume)
   * [Personal Story](#personalstory)
   * [Hobbies and Interests](#hobbiesandinterests)
-  * [FAQs](#faq)
+  * [FAQs](#faqs)
 
 
 #### Professional Skills <a name="professionalskills"></a>
@@ -74,7 +74,7 @@ While I love tech, there is so much more outside the world of tech that I enjoy,
 
 - Mentoring: empowering others, in any way that I can, is one of the most important goals that I have. To that extent, I am committed to helping others in the areas where I can provide value. Please check out my contact page if you think I have anything of value that I can provide to you.
 
-### FAQs (Frequently Asked Questions)
+### FAQs<a name="faqs"></a> (Frequently Asked Questions)
 
 <details><summary>I want to become a cloud developer. Where do I start?</summary><br>
 You came to the right place. I put together a step-by-step plan for you. Please start by downloading my free eBook.
