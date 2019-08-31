@@ -26,8 +26,7 @@ What I do in a nutshell: I use code (primarily Python) to architect and automate
 Some of my skills:
 
 - Cloud: AWS <i class="fab fa-aws"></i> <br>
-  This is the only cloud provider I currently work with. I have all 3 AWS associate certifications and currently working on my Solutions Architect Certification - Professional.
-
+  This is the only cloud provider I currently work with. I have all 3 AWS associate certifications and currently working on my Solutions Architect Certification - Professional.<br>
   AWS services I am experienced in: EC2, S3, VPC, Lambda, Step Functions, Route 53, ECS, ECR, CloudWatch, CloudFormation
 
 - Code: Python <i class="fab fa-python"></i> <br>
