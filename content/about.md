@@ -6,7 +6,9 @@ menu:
     weight: 4
 layout: page
 ---
-First of all, thank you for wanting to learn more about me. This page contains some information about my professional and personal background, as well as a download link to my résumé. 
+First of all, thank you for wanting to learn more about me. 
+
+This page contains some information about my professional and personal background, a download link to my résumé, as well as some FAQs. 
 
 #### Table of Contents
   * [Professional Skills](#professionalskills)
@@ -19,21 +21,19 @@ First of all, thank you for wanting to learn more about me. This page contains s
 
 #### Professional Skills <a name="professionalskills"></a>
 
-I am a cloud developer. What does that mean?
-
-It means someone who understands cloud architecture and can also write code.
+What I do in a nutshell: I use code (primarily Python) to architect and automate cloud infrastructure (primarily AWS).
 
 Some of my skills:
 
-- Cloud: AWS
-  I have drank the kool-aid. I have immersed mylsef in AWS for the last couple of years that is the only cloud provider I have worked with.
+- Cloud: AWS <i class="fab fa-aws"></i> <br>
+  This is the only cloud provider I currently work with. I have all 3 AWS associate certifications and currently working on my Solutions Architect Certification - Professional.
+
   AWS services I am experienced in: EC2, S3, VPC, Lambda, Step Functions, Route 53, ECS, ECR, CloudWatch, CloudFormation
 
-- Code: Python
+- Code: Python <i class="fab fa-python"></i> <br>
   Python is probably one of the best languages for the cloud. I heavily use the Python SDK for AWS (Boto3)
 
-- Tools
-  Git, Docker, VS Code
+- Tools: Git, Docker, VS Code
 
 #### Career History <a name="careerhistory"></a>
 
