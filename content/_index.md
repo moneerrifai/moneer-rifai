@@ -12,7 +12,9 @@ sections:
       <p style="text-align:center;">
         📘 Grab my free <a href="https://www.moneerrifai.com/ebook">eBook</a><br>
         📰 Check out my <a href="https://www.moneerrifai.com/blog">blog</a><br> 
-        👉 Follow me on <a href="https://dev.to/moneerrifai" target="_blank" style="text-decoration:none;"><i class="fab fa-dev"></i></a> or <a href="https://twitter.com/moneerrifai" target="_blank" style="text-decoration:none;"><i class="fab fa-twitter" style="text-decoration:none;"></i></a>
+        👉 Get social with me [<i class="fab fa-dev"></i>](https://www.google.com)
+
+        
     
       </p>
   - type: postsblock
@@ -86,3 +88,7 @@ menu:
     weight: 1
 layout: home
 ---
+
+<p>Test</p>
+
+👉 Follow me on <a href="https://dev.to/moneerrifai" target="_blank" style="text-decoration:none;"><i class="fab fa-dev"></i></a> or <a href="https://twitter.com/moneerrifai" target="_blank" style="text-decoration:none;"><i class="fab fa-twitter" style="text-decoration:none;"></i></a>
