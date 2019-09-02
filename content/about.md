@@ -67,19 +67,19 @@ While I love tech, there is so much more outside the world of tech that I enjoy,
 ##### Cloud Development FAQs
 
 <details><summary>Are cloud and DevOps jobs in demand and is this a good career move?</summary><br>
-I might be biased, but I honestly think it is one of the hottest fields right now. Anything tech-related is always in demand, but my personal experience tells me that it is MUCH harder to hire good cloud and DevOps engineers/developers than any other engineers. The following is not based on reliable data, but one possible explanation is that development bootcamps have focuses so much on web development and as a result we are starting to see an abundance of web developers but the same thing did not happen with DevOps engineers and cloud developers. As a results, the supply is not able to keep up with the demand. Cloud and DevOps engineers are typically some of the highest paid roles.
+I might be biased, but I honestly think it is one of the hottest fields right now. Anything tech-related is always in demand, but my personal experience tells me that it is MUCH harder to hire good cloud and DevOps engineers/developers than any other engineers. This is pure conjecture, but one possible explanation is that development bootcamps have focused so much on web development and as a result we are starting to see an abundance of web developers but the same thing did not happen with DevOps engineers and cloud developers. As a result, the supply is not able to keep up with the demand. Cloud and DevOps engineers are typically some of the highest paid roles.
 </details>
 
-<details><summary>I want to become a cloud developer. How do I start?</summary><br>
+<details><summary>I want to become a cloud developer. Where do I start?</summary><br>
 You came to the right place. I put together a step-by-step plan for you. Please start by downloading my <a href="https://www.moneerrifai.com/ebook" target="_blank"> free eBook</a>.
 </details>
 
 <details><summary>I read about how you got your AWS certifications. I currently work as an ____ (insert your job title here). What kind of job can I get if I get AWS certified?</summary><br>
-As I mention in my <a href="https://www.moneerrifai.com/ebook" target="_blank">eBook</a>, simply getting a certification is not going to magically make you a cloud developer, or a job in the field for that matter. Please, don't assume that passing a test is all you need. A certification provides a good path for learning the theory, but you will need to supplement that with development knowledge, as well as some hands-on experience. In my blog articles and my <a href="https://www.moneerrifai.com/ebook" target="_blank">eBook</a> I provide you with advice on how to get that knowledge and experience. 
+As I mention in my <a href="https://www.moneerrifai.com/ebook" target="_blank">eBook</a>, simply getting a certification is not going to magically make you a cloud developer, or get you a job in the field for that matter. Please, don't assume that passing a test is all you need. A certification provides a good path for learning the theory, but you will need to supplement that with development knowledge, as well as some hands-on experience. In my blog articles and my <a href="https://www.moneerrifai.com/ebook" target="_blank">eBook</a> I provide you with advice on how to get that knowledge and experience. 
 </details>
 
 <details><summary>I have a decent amount of experience in traditional IT (server administration, support, networking, etc.) How do I break into cloud development?</summary><br> 
-Awesome! The good news is that your experience is very relevant. The challenge is that you will need to improve your development chops. You most likely did not write much code in the past, or maybe none at all. But do not despaiRr, it is not as hard as you think. My advice is to pick up an object-oriented language (Python is a good choice) and learn it. You will also benefit from getting certified with a cloud provider of your choice (I suggest AWS). The certification will probably come easy to you, but getting used to writing code might be a bit of a change. See my blog posts or my <a href="https://www.moneerrifai.com/ebook" target="_blank">eBook</a> for more details.
+Awesome! The good news is that your experience is very relevant. The challenge is that you will need to improve your development chops. You most likely did not write much code in the past, or maybe none at all. But do not despair, it is not as hard as you think. My advice is to pick up an object-oriented language (Python is a good choice) and learn it. You will also benefit from getting certified with a cloud provider of your choice (I suggest AWS). The certification will probably come easy to you, but getting used to writing code might be a bit of a change. See my blog posts or my <a href="https://www.moneerrifai.com/ebook" target="_blank">eBook</a> for more details.
 </details>
 
 <details><summary>I am a developer but I want to switch my focus to cloud and/or DevOps. How do I do that?</summary><br>
@@ -109,7 +109,7 @@ I work remotely for <a href="https://www.infor.com" target="_blank">Infor</a>.
 </details>
 
 <details><summary>I am a recruiter and I have the perfect job for you. Are you interested?</summary><br>
-I am currently happily employed but you are welcome to <a href="https://www.moneerrifai.com/contact" target="_blank"> contact </a> me. At the moment I am not interested in anything that is not remote. I live in Iowa City, IA so if you are offering me a 1 month contract 2,000 miles away then no thanks, not interested in relocating my family at the moment.
+I am currently happily employed but you are welcome to <a href="https://www.moneerrifai.com/contact" target="_blank"> contact </a> me. At the moment I am not interested in anything that is not remote. I live in Iowa City, IA so if you are offering me a 1 month contract 2,000 miles away then no, but thanks. I am not interested in relocating my family at the moment.
 </details>
 
 
