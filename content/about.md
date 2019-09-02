@@ -13,7 +13,7 @@ This page contains some information about my professional and personal backgroun
 #### Table of Contents
   * [Professional Skills](#professionalskills)
   * [Download My Résumé](#resume)
-  * [Personal Story](#personalstory)
+  * [Personal Background](#personalbackground)
   * [Hobbies and Interests](#hobbiesandinterests)
   * [FAQs](#faqs)
 
@@ -39,24 +39,22 @@ Some of my skills:
 You can download a PDF version of my résumé by clicking on <a href="https://moneerrifai.com/resume.pdf" target="_blank">this link</a>.
 
 
-#### Personal Story <a name="personalstory"></a>
+#### Personal Background <a name="personalbackground"></a>
 
-I was born and raised in Lebanon, in the Middle East. My family is of Palestinian origin who left Palestine in 1948. 
+I grew up in Lebanon, and moved to the US (Minnesota) in 2000 to attend university. Other than a brief move to Seattle, I have been living in the upper midwest and really loving it. My wonderful wife Emma and I have been married since 2009 and We now live in Iowa City, IA where she is pursuing her PhD in religious studies. We have 2 cats named Mulder and Scully (if you're younger than 30, you might not get the reference!)
 
-I moved to the US (Minnesota) in 2000 to attend university. In 2007 I met my amazing wife Emma and we got married in 2009. We now live in Iowa City, IA where she is pursuing her PhD in religious studies and expects to graduate soon. We have 2 cats named Mulder and Scully (if you're younger than 30, you might not get the reference!)
-
-I work remotely, and I love it!
+I work remotely for <a href="https://infor.com" target="_blank">Infor</a>, and I love it!
 
 
 #### Hobbies and Interests <a name="hobbiesandinterests"></a>
 
 While I love tech, there is so much more outside the world of tech that I enjoy, like:
 
-- Reading: I read a lot, but not enough. Classics (War and Peace and Walden are two of my favorite classics) to history, philosophy, productivity, business, and science. One of my favorite books that I read recently is Deep Work, but Cal Newport. Read it, I guarantee that it will change you life.
+- Reading: I read a lot, but not enough. One of my recent favorites is _Deep Work_, by Cal Newport. Read it, I guarantee it will change you life.
 
-- Fitness: I enjoy being active. Some of what enjoy: going to the gym, running (I have participated in many races from 5k to marathons), soccer (I play on a local team), cycling (I rode across the US once, and I have done RAGBRAI), hiking (hiked a lot in the mountains of Washington and Montana, especially Glacier National Park), and anything that gets me outside to enjoy the beautiful gift of nature.
+- Fitness: I enjoy being active. Some of what enjoy: going to the gym, running, soccer, cycling, hiking, and anything that gets me outside to enjoy the beautiful gift of nature.
 
-- Community: I love being active in my community. I am involved with several community and volunteer groups with a focus on community-building, giving back, and promoting dialogue.
+- Community: I love being active in my community. I am involved with several community and volunteer groups with a focus on volunteering, community-building, and promoting dialogue.
 
 - Speaking: I am a member of Toastmasters. I have spoken at local tech events and workshops focused cloud and DevOps. I have also had the honor of speaking at bridge-building and interfaith community events.
 
