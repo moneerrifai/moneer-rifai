@@ -12,7 +12,8 @@ sections:
       <p style="text-align:center;">
         📘 Grab my free <a href="https://www.moneerrifai.com/ebook">eBook</a><br>
         📰 Check out my <a href="https://www.moneerrifai.com/blog">blog</a><br> 
-        👉 Follow me on <i class="fab fa-dev"></i> or <i class="fab fa-twitter"></i>
+        👉 Follow me on <a href="https://dev.to/moneerrifai" target="_blank"><i class="fab fa-dev"></i></a> or <a href="https://twitter.com/moneerrifai" target="_blank"><i class="fab fa-twitter"></i></a>
+    
       </p>
   - type: postsblock
     title: Latest from the Blog
