@@ -12,7 +12,7 @@ sections:
       <p style="text-align:center;">
         📘 Grab my free <a href="https://www.moneerrifai.com/ebook">eBook</a><br>
         📰 Check out my <a href="https://www.moneerrifai.com/blog">blog</a><br> 
-        👉 Follow me on <a href="https://dev.to/moneerrifai" target="_blank" style="text-decoration:none"><i class="fab fa-dev"></i></a> or <a href="https://twitter.com/moneerrifai" target="_blank" style="text-decoration:none"><i class="fab fa-twitter"></i></a>
+        👉 Follow me on <a href="https://dev.to/moneerrifai" target="_blank" style="text-decoration:none;"><i class="fab fa-dev"></i></a> or <a href="https://twitter.com/moneerrifai" target="_blank" style="text-decoration:none;"><i class="fab fa-twitter"></i></a>
     
       </p>
   - type: postsblock
