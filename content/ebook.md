@@ -7,11 +7,19 @@ menu:
     weight: 2
 layout: page
 ---
+<div style="display:flex;flex-direction:column;justify-content:center;align-items:center;">
+
+  <img src="/images/ebook.png"  height="900" width="600">
+
+  <div class="ml-form-embed"
+    data-account="1616620:q3k8r0a4l8"
+    data-form="1433910:h4o1h5">
+  </div>
+</div>
+
 >According to LinkedIn, Cloud Computing was the #1 sought-after skill in 2019, and shortage of professionals is hitting a "crisis level"
 
-What does this mean? 
-
-It means that mastering these skills will unlock endless opportunities.
+This means that mastering these skills will unlock endless opportunities.
 
 In this eBook, you will learn:
 <ul>
