@@ -12,7 +12,7 @@ sections:
       <p style="text-align:center;">
         📘 Grab my free <a href="https://www.moneerrifai.com/ebook">eBook</a><br>
         📰 Check out my <a href="https://www.moneerrifai.com/blog">blog</a><br> 
-        👉 Get social with me <a href="https://dev.to/moneerrifai" target="_blank" style="text-decoration: none !important;"><i class="fab fa-dev" style="text-decoration: none !important;"></i></a> <a href="https://twitter.com/moneerrifai" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/moneerrifai/" target="_blank"><i class="fab fa-linkedin"></i></a>
+        👉 Get social with me: <a href="https://dev.to/moneerrifai" target="_blank" style="text-decoration: none !important;"><i class="fab fa-dev" style="text-decoration: none !important;"></i></a> <a href="https://twitter.com/moneerrifai" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/moneerrifai/" target="_blank"><i class="fab fa-linkedin"></i></a>
       </p>
   - type: postsblock
     title: Latest from the Blog
