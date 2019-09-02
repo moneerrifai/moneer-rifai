@@ -18,9 +18,11 @@
 .fa-twitter {
     background: white;
     color: #55ACEE;
+    text-decoration: none;
   }
 
   .fa-dev {
     background: white;
     color: #0a0a0a;
+    text-decoration: none;
   }
