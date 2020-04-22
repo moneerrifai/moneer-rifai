@@ -1,5 +1,13 @@
-stackbitVersion: ~0.2.39
+stackbitVersion: ~0.2.0
+ssgName: hugo
+ssgVersion: 0.1.12
+buildCommand: ./ssg-build.sh
+publishDir: public
+staticDir: static
 uploadDir: images
+dataDir: data
+pagesDir: content
+pageLayoutKey: layout
 metadata:
   title: Exto
   description: A portfolio theme with a blog
@@ -8,6 +16,11 @@ metadata:
   images:
     small: images/demo-256x192.png
     large: images/demo-1024x768.png
+stackbit_banner:
+  show_banner: true
+  name: Exto
+  create_url: 'https://app.stackbit.com/create?theme=exto'
+  github_url: 'https://github.com/stackbithq/stackbit-theme-exto'
 models:
   config:
     type: config
@@ -632,13 +645,3 @@ models:
         name: parent
         label: Parent Menu Identifier
         description: The parent of an entry should be the identifier of another entry.
-stackbit_banner:
-  show_banner: true
-  name: Exto
-  create_url: 'https://app.stackbit.com/create?theme=exto'
-  github_url: 'https://github.com/stackbithq/stackbit-theme-exto'
-pagesDir: content
-staticDir: static
-ssgName: hugo
-publishDir: public
-buildCommand: ./ssg-build.sh
