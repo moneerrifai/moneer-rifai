@@ -13,7 +13,7 @@ echo "Hugo version: ${HUGO_VERSION}"
 rm -fr *.deb
 
 echo "downloading libstdc..."
-wget --no-clobber http://security.ubuntu.com/ubuntu/pool/main/g/gcc-5/libstdc++6_5.4.0-6ubuntu1~16.04.10_amd64.deb || exit 1
+# wget --no-clobber http://security.ubuntu.com/ubuntu/pool/main/g/gcc-5/libstdc++6_5.4.0-6ubuntu1~16.04.10_amd64.deb || exit 1
 
 echo "downloading extended hugo..."
 wget --no-clobber -q https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/${HUGO_FLAVOUR}_${HUGO_VERSION}_Linux-64bit.deb || exit 1
