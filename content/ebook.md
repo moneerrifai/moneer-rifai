@@ -25,7 +25,8 @@ In this eBook, you will learn:
 <ul>
   <li>the exact steps to unleash your cloud career</li>
   <li>the potential pitfalls and mistakes to avoid</li>
-  <li>how to apply for jobs and excel at technical interviews and code challenges</li>
+  <li>the best resources for self-learning</li>
+  <li>many valuable tips and tricks to accelerate your career transition</li>
 </ul>
 <div style="display:flex;flex-direction:column;justify-content:center;align-items:center;">
 
