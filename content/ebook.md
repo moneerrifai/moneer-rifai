@@ -32,10 +32,10 @@ In this eBook, you will learn:
 
   <img src="/images/ebook.png"  height="900" width="600">
 
-  <div class="ml-form-embed"
-    data-account="1616620:q3k8r0a4l8"
-    data-form="1433910:h4o1h5">
-  </div>
+<div class="ml-form-embed"
+  data-account="1616620:q3k8r0a4l8"
+  data-form="1433910:h4o1h5">
+</div>
 </div>
 
 
@@ -50,3 +50,4 @@ _.parentNode.insertBefore(r,_);})(window, document, 'script', 'https://static.ma
 var ml_account = ml('accounts', '1616620', 'q3k8r0a4l8', 'load');
 </script>
 <!-- End MailerLite Universal -->
+

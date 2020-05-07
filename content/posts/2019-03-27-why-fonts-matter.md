@@ -1,6 +1,6 @@
 ---
-title: Why Fonts Matter
-date: '2019-03-27'
+title: Are AWS Certifications Worth It? 
+date: '2020-05-07'
 thumb_img_path: images/12.jpg
 content_img_path: images/12.jpg
 excerpt: >-
