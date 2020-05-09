@@ -1,5 +1,6 @@
 title: Moneer Rifai - Cloud Developer
 baseURL: /
+canonifyURLs: true
 params:
   color_scheme: light
   accent_color: blue
