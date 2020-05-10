@@ -20,6 +20,7 @@ So how did that plan pan out?
 # Brief Overview of AWS Certification Path
 
 ![AWS Certifications](/images/aws-certifications.png)
+*Fig. 2: The minimum dominating set of a graph*
 
 As of 2020, AWS has multiple tracks for certification: 
 
