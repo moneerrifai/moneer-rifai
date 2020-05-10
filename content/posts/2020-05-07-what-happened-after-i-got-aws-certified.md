@@ -1,8 +1,8 @@
 ---
-title: How to Jumpstart Your Career With AWS Certifications
+title: Can You Jumpstart Your Career With AWS Certifications?
 date: '2020-05-07'
-thumb_img_path: images/12.jpg
-content_img_path: images/12.jpg
+thumb_img_path: images/liftoff.png
+content_img_path: images/liftoff.png
 excerpt: >-
   Back in 2017 I decided to pursue all 3 associate certifications, here's what happened since
 layout: post
@@ -10,17 +10,17 @@ layout: post
 
 A couple of years ago, I found myself stuck in a dead-end job and was itching to break into a career in the cloud, but I did not know how to.
 
-After discovering AWS, I came up with a plan: I was going to get all three associate-level certifications, and that would make me a cloud developer in extreme demand, right? 
+After discovering AWS, I came up with a plan: I was going to get all three associate-level certifications, which would make me a cloud developer in extreme demand, right? 
 
 I just need to cram for a couple of tests. Easy peasy!
 
 So how did that plan pan out?
 
 
-# Brief Overview of AWS Certification Path
+## Brief Overview of AWS Certification Path
 
 ![AWS Certifications](/images/aws-certifications.png)
-*Fig. 2: The minimum dominating set of a graph*
+*AWS Certification Path as of 2020*
 
 As of 2020, AWS has multiple tracks for certification: 
 
@@ -32,7 +32,7 @@ As of 2020, AWS has multiple tracks for certification:
 For most technically-inclined people, I recommend you start with the the associate-level certification.
 
 
-# Are Certifications Worth It? The Good, the Bad and the Ugly
+## Are Certifications Worth It? The Good, the Bad and the Ugly
 
 Certifications are a controversial topic in IT. Some people swear by them, others think they are overrated.
 
@@ -48,7 +48,7 @@ But if you understand that certifications alone are not going to magically make 
 
 2. While most technical hiring managers tend to be indifferent about them, many recruiters and HR people like them, so having a certification could potentially improve your chances of being noticed and might benefit you in your job application process
 
-# How I Broke Into the Cloud Career
+## How I Broke Into the Cloud Career
 
 As I mentioned before, a couple of years ago I decided that pursuing the three associate certifications from AWS would be all I need to break into a career in the cloud.
 
@@ -64,7 +64,7 @@ There are other skills that you will need to develop if you want to break into t
 
 As for me, after many failed interviews and after realizing what my areas of weaknesses were, I went to work on filling the gaps. For me, certifications were extremely helpful in getting me noticed and getting me the initial interviews, but I ultimately needed to supplement my knowledge with additional skills.
 
-# Should You Pursue Certifications?
+## Should You Pursue Certifications?
 
 Definitely!
 
@@ -74,7 +74,7 @@ Depending on your background and skill level, I highly recommend you start with 
 
 But do not stop with the certification: understand that more than likely, you will need to supplement with additional skills and experience.
 
-# Call to Action
+## Call to Action
 
 I highly recommend you explore the certification path that AWS offers and consider pursuing a certification. There are tons of learning material online, but my favorite content is Udemy. You can find courses on pretty much every topic and they have some great courses specifically tailored for AWS certifications.
 
