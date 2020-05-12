@@ -20,7 +20,9 @@ So how did that plan pan out?
 ### Brief Overview of AWS Certification Path
 
 ![AWS Certifications](/images/aws-certifications.png)
-<figcaption>AWS Certification Path as of 2020</figcaption>
+*AWS Certification Path as of 2020*
+
+{{< figure src="/images/aws-certifications.png" title="AWS Certification Path as of 2020" >}}
 
 As of 2020, AWS has multiple tracks for certification: 
 
