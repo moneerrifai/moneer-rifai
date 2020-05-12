@@ -81,7 +81,7 @@ My cloud knowledge gained through studying for those certifications, in tandem w
 
 Definitely!
 
-{{< figure src="https://giphy.com/gifs/reaction-qDPg6HNz2NfAk" caption="Shia LaBeouf thinks you should!" >}}
+{{< figure src="https://media.giphy.com/media/qDPg6HNz2NfAk/source.gif" caption="Shia LaBeouf thinks you should!" >}}
 
 If you are new to the cloud, or interested in jumpstarting your career, pursuing an AWS certification will be a great place to start.
 
