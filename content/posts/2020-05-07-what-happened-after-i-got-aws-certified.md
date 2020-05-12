@@ -17,10 +17,10 @@ I just need to cram for a couple of tests. Easy peasy!
 So how did that plan pan out?
 
 
-## Brief Overview of AWS Certification Path
+### Brief Overview of AWS Certification Path
 
 ![AWS Certifications](/images/aws-certifications.png)
-*AWS Certification Path as of 2020*
+<figcaption>AWS Certification Path as of 2020</figcaption>
 
 As of 2020, AWS has multiple tracks for certification: 
 
