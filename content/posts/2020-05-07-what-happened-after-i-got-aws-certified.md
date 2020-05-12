@@ -19,10 +19,12 @@ So how did that plan pan out?
 
 ### Brief Overview of AWS Certification Path
 
+
+
 ![AWS Certifications](/images/aws-certifications.png)
 *AWS Certification Path as of 2020*
 
-{{< figure src="/images/aws-certifications.png" title="AWS Certification Path as of 2020" >}}
+{{< figure src="/images/aws-certifications.png" caption="*AWS Certification Path as of 2020*" >}}
 
 As of 2020, AWS has multiple tracks for certification: 
 
@@ -34,7 +36,7 @@ As of 2020, AWS has multiple tracks for certification:
 For most technically-inclined people, I recommend you start with the the associate-level certification.
 
 
-## Are Certifications Worth It? The Good, the Bad and the Ugly
+### Are Certifications Worth It? The Good, the Bad and the Ugly
 
 Certifications are a controversial topic in IT. Some people swear by them, others think they are overrated.
 
