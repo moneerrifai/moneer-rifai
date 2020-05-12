@@ -19,7 +19,17 @@ So how did that plan pan out?
 
 ### Brief Overview of AWS Certification Path  
 
-&nbsp  
+
+
+
+
+
+
+
+
+
+
+
 
 
 {{< figure src="/images/aws-certifications.png" caption="AWS Certification Path as of 2020" >}}
