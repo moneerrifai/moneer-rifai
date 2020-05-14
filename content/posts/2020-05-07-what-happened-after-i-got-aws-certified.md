@@ -19,21 +19,6 @@ I just need to cram for a couple of tests. Easy peasy!
 So how did that plan pan out?
 
 
-### Brief Overview of AWS Certification Path  
-
-As of 2020, AWS has multiple tracks for certification, as seen in the image below. 
-
-{{< figure src="/images/aws-certifications.png" caption="AWS Certification Path as of 2020 - https://aws.amazon.com/certification/" >}}
- 
-
-1. Foundational: for those completely new to the cloud and seeking to get a general understanding. Avoid this track if you are more technically-minded
-2. Associate: this is where most people will start (and where I started). The Solutions Architect is a good one to pursue.
-3. Professional: recommended only after 2+ years experience, and I really encourage you to follow this recommendation
-4. Specialty: deep dives into specific topics that require lots of experience and knowledge (security, networking, etc.)
-
-For most technically-inclined people, I recommend starting with the the associate-level certifications.
-
-
 ### Certifications Are Controversial
 
 Certifications are a bit of a touchy subject in tech: some people swear by them, others think they are overrated.
@@ -49,6 +34,22 @@ With that being said, certifications have some benefits, two of which are:
 1. They provide an easy-to-follow path for studying and self-learning: for complex topics like AWS services, one can be easily overwhelmed, but having a defined and structured list of topics to cover makes it much easier to learn 
 
 2. While most technical hiring managers tend to be indifferent towards certifications, many recruiters and HR people like them, so having a certification could potentially improve your chances of being noticed and might help get your foot in the door
+
+
+### Brief Overview of AWS Certification Path  
+
+As of 2020, AWS has multiple tracks for certification, as seen in the image below. 
+
+{{< figure src="/images/aws-certifications.png" caption="AWS Certification Path as of 2020 - https://aws.amazon.com/certification/" >}}
+ 
+
+1. Foundational: for those completely new to the cloud and seeking to get a general understanding. Avoid this track if you are more technically-minded
+2. Associate: this is where most people will start (and where I started). The Solutions Architect is a good one to pursue.
+3. Professional: recommended only after 2+ years experience, and I really encourage you to follow this recommendation
+4. Specialty: deep dives into specific topics that require lots of experience and knowledge (security, networking, etc.)
+
+For most technically-inclined people, I recommend starting with the the associate-level certifications.
+
 
 ### How I Broke Into the Cloud Career
 
