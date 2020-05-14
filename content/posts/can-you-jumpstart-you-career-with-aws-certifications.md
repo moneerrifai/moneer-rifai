@@ -4,7 +4,7 @@ date: '2020-05-07'
 thumb_img_path: images/liftoff.png
 content_img_path: images/liftoff.png
 excerpt: >-
-  Back in 2017 I decided to pursue all 3 associate certifications, here's what happened since
+  Back in 2017 I decided to pursue all 3 AWS Associate certifications, here's what happened since
 layout: post
 ---
 
