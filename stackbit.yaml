@@ -232,6 +232,15 @@ models:
         name: menu
         label: Blog Menus
         description: Which menus should this page show up in
+      - type: enum
+        name: col_number
+        label: Columns
+        description: The number of posts in a row.
+        options:
+          - two
+          - three
+        default: three
+        required: true
   portfolio:
     type: page
     label: Portfolio
