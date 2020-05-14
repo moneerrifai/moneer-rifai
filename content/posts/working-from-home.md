@@ -3,8 +3,8 @@ title: The Advantages and Disadvantages of Working from Home
 excerpt: >-
     Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus aenean vel elit.
 date: 2016-08-22
-thumb_image: images/9.jpg
-image: images/9.jpg
+thumb_img_path: images/2_thumb.jpg
+content_img_path: images/2.jpg
 layout: post
 ---
 
