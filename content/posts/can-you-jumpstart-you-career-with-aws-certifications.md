@@ -8,7 +8,7 @@ excerpt: >-
 layout: post
 ---
 
-Cloud skills are currently some of the most sought-after tech skills out there, and cloud jobs are some of the highest paying in the industry. But how does one break into this exciting field?
+Cloud expertise is currently one of the most sought-after tech skills out there, and cloud jobs are some of the highest paying in the industry. But how does one break into this exciting field?
 
 A couple of years ago, I found myself stuck in a dead-end job and was itching to break into a career in the cloud, but I did not know how to.
 
@@ -17,6 +17,8 @@ After discovering AWS, I came up with a plan: I was going to get all three assoc
 I just need to cram for a couple of tests. Easy peasy!
 
 So how did that plan pan out?
+
+(See my original blog post from 2017 about my certification journey [here](https://medium.com/hackernoon/3-reasons-why-you-should-get-aws-certified-this-year-7e44dbc51519))
 
 
 ### Certifications Are Controversial
@@ -27,7 +29,7 @@ I kinda agree with both of those sentiments!
 
 Let me explain.
 
-If you think a certification alone will make you an expert in a given topic, then you are in for a surprise. You will not gain expertise by passing a test. This attitude is what gives certification a bad rap. A growing number of so-called "certified experts" that seem to lack an understanding of the very topics they are certified in does not help.
+If you think that a certification alone will make you an expert in a given topic, then you are in for a surprise. You will not gain expertise by passing a test. This attitude is what gives certification a bad rap. A growing number of so-called "certified experts" that seem to lack an understanding of the very topics they are certified in does not help.
 
 With that being said, certifications have some benefits, two of which are:
 
@@ -36,7 +38,7 @@ With that being said, certifications have some benefits, two of which are:
 2. While most technical hiring managers tend to be indifferent towards certifications, many recruiters and HR people like them, so having a certification could potentially improve your chances of being noticed and might help get your foot in the door
 
 
-### Brief Overview of AWS Certification Path  
+### Brief Overview of the AWS Certification Path  
 
 As of 2020, AWS has multiple tracks for certification, as seen in the image below. 
 
@@ -44,11 +46,11 @@ As of 2020, AWS has multiple tracks for certification, as seen in the image belo
  
 
 1. Foundational: for those completely new to the cloud and seeking to get a general understanding. Avoid this track if you are more technically-minded
-2. Associate: this is where most people will start (and where I started). The Solutions Architect is a good one to pursue.
+2. Associate: this is where most people will start (and where I started). The Solutions Architect is a good one to start with
 3. Professional: recommended only after 2+ years experience, and I really encourage you to follow this recommendation
 4. Specialty: deep dives into specific topics that require lots of experience and knowledge (security, networking, etc.)
 
-For most technically-inclined people, I recommend starting with the the associate-level certifications.
+For most technically-inclined people, I recommend starting with the associate-level certifications.
 
 
 ### How I Broke Into the Cloud Career
@@ -73,7 +75,7 @@ After many failed interviews and after realizing what my areas of weaknesses wer
 
 For me, my Achilles' heel was the coding challenges: I was doing great on most technical and behavioral aspects of my interviews, but I was bombing the code challenges.
 
-Only when I focused on my weaknesses and accepted that I cannot simply assume that my knowledge of the various AWS services will suffice, things started to turn for me. After devoting a considerable amount of time studying object-oriented programming and doing a lot of practice, I started interviewing more confidently and doing well on coding-related questions and challenges, which very quickly landed me what has been the most fulfilling and enjoyable career I've had so far.
+Only when I focused on my weaknesses and accepted that my AWS knowledge alone will not suffice, things started to turn for me. After devoting a considerable amount of time studying object-oriented programming and doing a lot of practice, I started interviewing more confidently and doing well on coding-related questions and challenges, which very quickly landed me what has been the most fulfilling and enjoyable career I've had so far.
 
 My cloud knowledge gained through studying for those certifications, in tandem with my coding skills, ended up being the winning ticket.
 
@@ -86,19 +88,27 @@ Definitely!
 
 If you are new to the cloud, or interested in jumpstarting your career, pursuing an AWS certification will be a great place to start.
 
-Just remember though: depending on your background, those certifications might not be enough.
+Just remember though: depending on your background, those certifications alone might not be enough.
 
 #### Suggested Path
 
-I highly recommend you start with the AWS Solutions Architecht - Associate certification, and then possibly pursue the two other certifications afterward (Developer and SysOps Administrator certification). Unless you have a couple of years of experience in the cloud, do not pursue the professional-level certification.
+I highly recommend you start with the AWS Solutions Architecht - Associate certification, and then possibly pursue the two other certifications afterward (Developer and SysOps Administrator). Unless you have a couple of years of experience in the cloud, do not pursue the professional-level certifications.
 
 But do not stop with the certification: understand that more than likely, you will need to supplement with additional skills and experience.
 
-### Call to Action
+### Final Thoughts
 
-I highly recommend you explore the certification path that AWS offers and consider pursuing a certification. 
+#### You Can Absolutely Do This
 
-Additionally, I have put together a free ebook that outlines the various skills that you need to develop if you are interested in a career in the cloud, as well as the best online resources for self-learning, and even a structured program the you can follow. 
+If you have been thinking about transitioning into the cloud but have been looking for a sign, this is your sign!
+
+Demand for cloud professionals is only increasing. A global pandemic has caused more companies and workloads to move to the cloud, and increased the demand even further.
+
+#### Call to Action
+
+I highly recommend that you explore the certification path that AWS offers and consider pursuing one (or more). 
+
+If you are overwhelmed by all the options and "additional skills" that you need to develop, I have put together a free ebook that will guide you through the whole process as well as provide you the best online resources for self-learning. I even give you a structured program the you can follow. 
 
 You can get my ebook for free here: https://www.moneerrifai.com/ebook/
 
