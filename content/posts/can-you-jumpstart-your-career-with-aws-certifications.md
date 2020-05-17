@@ -1,8 +1,8 @@
 ---
 title: Can You Jumpstart Your Career With AWS Certifications?
 date: '2020-05-07'
-thumb_img_path: images/liftoff.png
-content_img_path: images/liftoff.png
+thumb_img_path: images/jumpstart-your-career.png
+content_img_path: images/jumpstart-your-career.png
 excerpt: >-
   Back in 2017 I decided to pursue all 3 AWS Associate certifications, here's what happened since
 layout: post
