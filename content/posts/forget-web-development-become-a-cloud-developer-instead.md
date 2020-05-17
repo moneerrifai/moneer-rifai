@@ -41,7 +41,7 @@ The explosion of bootcamps and the wide availability of online resources has bee
 
 It has never been easier to learn if you are willing to put in the effort (and often, a decent chunk of money).
 
-{{< figure src="/images/bootcamps.png" caption="Coding Bootcamp Market Growth According to Course Report (https://www.coursereport.com/coding-bootcamp-ultimate-guide) >}}
+{{< figure src="/images/bootcamps.png" caption="Coding Bootcamp Market Growth According to Course Report - source: (https://www.coursereport.com/coding-bootcamp-ultimate-guide)"  >}}
 
 What that means for new developers though is that the competition is fierce! When there are multiple applicants for the same web dev position, having the skills alone might not be enough. Applicants need to have a strong portfolio as well as experience and additional skills to stand out. Many have to start out with an internship.
 
