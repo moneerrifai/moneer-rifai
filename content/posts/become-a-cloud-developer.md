@@ -41,7 +41,7 @@ The explosion of bootcamps and the wide availability of online resources has bee
 
 It has never been easier to learn if you are willing to put in the effort (and often, a decent chunk of money).
 
-{{< figure src="/images/bootcamps.png" caption="Coding Bootcamp Market Growth According to <a href='https://www.coursereport.com/coding-bootcamp-ultimate-guide'>Course Report</a> >}}
+{{< figure src="/images/bootcamps.png" caption="Coding Bootcamp Market Growth According to Course Report (https://www.coursereport.com/coding-bootcamp-ultimate-guide) >}}
 
 What that means for new developers though is that the competition is fierce! When there are multiple applicants for the same web dev position, having the skills alone might not be enough. Applicants need to have a strong portfolio as well as experience and additional skills to stand out. Many have to start out with an internship.
 
@@ -58,6 +58,8 @@ Additionally, it seems that every day new technologies and frameworks are coming
 ## Enter Cloud Development 
 
 Let's talk about what is arguably one of the hottest and most in-demand skill in the tech industry.
+
+{{< figure src="/images/nobody_understands_cloud.jpeg" caption="True, but a select few actually do!" >}}
 
 ### What is Cloud Development
 
@@ -105,7 +107,7 @@ You write code (sometimes a lot of code), but that is not the only thing you do.
 
 As an example, in my current job, I write a lot of code, but I also do a fair amount of design and architecture, communication with other teams and stakeholders, technical documentation, security, even support and troubleshooting. 
 
-### How to Get Started
+## How to Get Started
 
 The skills that you need to develop as a cloud developer might seem overwhelming, but it does not have to be that way!
 
@@ -125,7 +127,7 @@ And if you would like a step-by-step program, I have put together a short free e
 
 https://www.moneerrifai.com/ebook/
 
-### Final Thoughts and Call to Action
+## Final Thoughts and Call to Action
 
 I hope that I did not offend anyone by disparaging web development! Please take my tongue-in-cheek comments with a grain of salt.
 
