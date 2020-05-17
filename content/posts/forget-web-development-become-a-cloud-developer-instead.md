@@ -10,30 +10,30 @@ layout: post
 
 ## The "Learn How to Code" Hype Train 
 
-Unless you have been living under a rock, you probably know that "becoming developer" is all the rage.
+Unless you have been living under a rock, you probably know that "becoming a developer" is all the rage.
 
-The first coding bootcamp appeared around 2011, and over the next few years, they exploded in popularity! There are now countless in-person bootcamps and online ones too. In addition to bootcamps, there are tons of platforms and online courses, some completely free (like freeCodeCamp).
+The first coding bootcamp appeared around 2011, and over the next few years, they exploded in popularity. There are now countless in-person and online bootcamps. Additionally, there are tons of platforms and online courses, some completely free (like freeCodeCamp).
 
 All these programs are great, but for the most part, they focus on one thing: web development.
 
-The common path is something like this:
+The common path goes something like this:
 
 1. Learn some frontend web development (HTML/CSS/JavaScript)
 2. Learn some backend development
-3. Practice and build a portfoloio
+3. Practice and build a portfolio
 4. Apply for jobs
 
 This obviously is a little oversimplified, but it is a very popular path that new developers follow, and a decent path to be honest.
 
 So why am I writing about this?
 
-If this is something that you are considering, I would like to talk you out of it, and present an alternative for you.
+If this is something that you are considering, I would like to talk you out of it, and present you with an alternative!
 
 ## Why No Love for Web Dev?
 
 Back in 2017, I was catching the "development bug" and I wanted to be one of the cool kids.
 
-After finding an online program that was a good fit, I proceeded to spend the next few couple of months learning web development. I loved it, but I came against the following two problems.
+After finding an online program that was a good fit, I proceeded to spend the next few couple of months learning web development. I loved it, but I bumped into the following two problems:
 
 ### Problem 1: The Web Development Market is Getting Saturated
 
@@ -57,7 +57,7 @@ Additionally, it seems that every day new technologies and frameworks are coming
 
 ## Enter Cloud Development 
 
-Let's talk about what is arguably one of the hottest and most in-demand skill in the tech industry.
+Let's talk about what is arguably one of the hottest and most in-demand skill in the tech industry right now.
 
 {{< figure src="/images/nobody_understands_cloud.jpeg" caption="True, but a select few actually do!" >}}
 
@@ -75,7 +75,7 @@ The availability of public cloud computing is fairly recent (about 10 years or s
 
 As practically every company moved to the cloud (or currently in the process of moving), demand for cloud experts soared and has not slowed down.
 
-To add to that: many cloud providers like AWS responded by providing more services. If you access the AWS console for the first time, you are bound to be overwhelmed! There are dozens and dozens of services, and new ones keep getting released. Most organizations need experts (or teams of experts) to help them navigate their journey to the cloud.
+To add to that: many cloud providers like AWS responded by providing more services. If you access the AWS console for the first time, you are bound to be overwhelmed! There are dozens and dozens of services, and new ones keep getting released. Most organizations need experts (or teams of experts) to help them navigate this complexity.
 
 #### 2. Very Limited Supply
 
@@ -89,7 +89,7 @@ This is a bit of a generalization, but traditionally, tech professionals come fr
 
 Very few happen to have skills that span both of the backgrounds described above, and that's where the sweet spot is!
 
-As someone who has been on the hiring side, I experienced this first-hand. At my job, we recently tried to backfill a position on my team. We interview many candidates: some had a strong infrastructure and system administration skills but could not write a simple "for loop", while others were strong developers but barely knew what an IP address is!
+As someone who has been on the hiring side, I experienced this firsthand. I recently helped interview candidates to backfill a position on my team. We interviewed many candidates: some had strong infrastructure and system administration skills but could not write a simple "for loop", while others were strong developers but barely knew what an IP address was!
 
 #### 3. High Demand + Low Supply = 💰
 
@@ -99,9 +99,9 @@ This theory indeed holds up: if you look at any industry report, cloud jobs are 
 
 #### 4. Not a Dull Moment in the Cloud
 
-Building a to-do app is a lot of fun, but cloud development is just a whole other level (ok that was a mean joke - I know there's much more to web development).
+Building fancy interfaces and colorful buttons is a lot of fun, but cloud development is just a whole other level (ok that was a mean joke - I know there's much more to web development).
 
-As a cloud developer, you are often building and automating pretty impressive infrastructure. You are often architecting massive systems that can scale to accomodate thousands or millions of users/requests. You get to touch so many aspects of technology, and there is not a dull moment.
+As a cloud developer, you are often building and automating pretty impressive infrastructure. You  architect massive systems that can scale to accomodate thousands or millions of users/requests. You get to touch so many aspects of technology: one day you might be automating CI/CD pipelines, and the next day you might be implementing the latest in serverless architecture.
 
 You write code (sometimes a lot of code), but that is not the only thing you do. The variety of the skills that you develop keeps you engaged. 
 
@@ -119,11 +119,13 @@ At a high level, you need the following skills:
 
 3. Tooling: this could be optional, but there are countless tools and frameworks, some more important than others, so learning a couple (based on your interest) might be very beneficial
 
-Depending on your backround, you might be able to transfer many of your existing skills over. For example, I came from a traditional IT operations background so I was able to translate that to the cloud (by picking up some cloud certifications) but I needed to work hard to develop my code skills (of which I had none) and learn a couple of cloud tools.
+Depending on your backround, you might be able to transfer many of your existing skills over. For example, I came from a traditional IT operations background so I was able to translate that to the cloud (by picking up some cloud certifications) but I needed to work hard to develop my code skills (of which I had none) and I also had to learn a couple of cloud tools.
+
+{{< figure src="/images/yoda.jpg" caption="Yoda is right, but it is not as bad as he thinks"  >}}
 
 Your path might be different than mine, but it is very likely that you will need to supplement your existing knowledge, or even build it up from scratch if you are new to tech. No matter where you're starting from, you can easily break into this exciting field.
 
-And if you would like a step-by-step program, I have put together a short free ebook that will help you through the process:
+If you would like a step-by-step program, I have put together a short free ebook that will help you through the process:
 
 https://www.moneerrifai.com/ebook/
 
@@ -137,4 +139,4 @@ If your passion is in web development, then you should definitely pursue it. For
 
 But if you are curious about the cloud and looking for a career that is guaranteed to challenge you and keep you on your toes, then give cloud development a chance.
 
-If you have any questions or comments, I would be more than happy to hear them!
+If you have any questions or comments, I would love to [hear from you](https://www.moneerrifai.com/contact/)!
