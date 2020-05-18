@@ -8,11 +8,11 @@ layout: page
 ---
 First of all, thank you for wanting to learn more about me. 
 
-This page contains some information about my professional and personal background, a download link to my résumé, as well as some FAQs. 
+This page contains some information about my professional and personal background, a download link to my resume, as well as some FAQs. 
 
 #### Table of Contents
   * [Professional Skills](#professionalskills)
-  * [Download My Résumé](#resume)
+  * [Download My Resume](#resume)
   * [Personal Background](#personalbackground)
   * [Hobbies and Interests](#hobbiesandinterests)
   * [FAQs](#faqs)
@@ -34,9 +34,9 @@ Some of my skills:
 - Tools: Git, Docker, VS Code
 
 
-#### Download My Résumé <a name="resume"></a>
+#### Download My Resume <a name="resume"></a>
 
-You can download a PDF version of my résumé by clicking on <a href="https://moneerrifai.com/resume.pdf" target="_blank">this link</a>.
+You can download a PDF version of my resume by clicking on <a href="https://moneerrifai.com/resume.pdf" target="_blank">this link</a>.
 
 
 #### Personal Background <a name="personalbackground"></a>
