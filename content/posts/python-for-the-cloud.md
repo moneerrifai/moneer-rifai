@@ -6,10 +6,13 @@ content_img_path: images/python-for-the-cloud.png
 excerpt: >-
   If you are interested in the cloud, then Python is the only language you need to master
 layout: post
+draft: true
 ---
 (post is in progress)
 
 ## Introduction
+
+If you have an interest in the cloud
 
 ## Why Python?
 
