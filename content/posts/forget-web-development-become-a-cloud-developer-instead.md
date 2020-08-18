@@ -65,9 +65,9 @@ Let's talk about what is arguably one of the hottest and most in-demand skill in
 
 Simply put: it is the usage of modern development technologies to architect, build and support complex cloud infrastructure.
 
-A cloud developer is essentially a developer that knows how to build and automate actual infrastructure. To be succesful, a cloud developer needs to have one foot in the development world, and another in the infrastructure and operations world.
+A cloud developer is essentially a developer that knows how to build and automate actual infrastructure. To be successful, a cloud developer needs to have one foot in the development world, and another in the infrastructure and operations world.
 
-The availability of public cloud computing is fairly recent (about 10 years or so). Understandably, one might come across many job descriptions that intersect or even fall under cloud development. For example: DevOps Engineer, Cloud Architect, Cloud Adminstrator, SRE, etc. All of these titles share some (or most) of the same core technical skills. Do not let the job titles confuse you.
+The availability of public cloud computing is fairly recent (about 10 years or so). Understandably, one might come across many job descriptions that intersect or even fall under cloud development. For example: DevOps Engineer, Cloud Architect, Cloud Administrator, SRE, etc. All of these titles share some (or most) of the same core technical skills. Do not let the job titles confuse you.
 
 ### Why Cloud Development
 
@@ -119,7 +119,7 @@ At a high level, you need the following skills:
 
 3. Tooling: this could be optional, but there are countless tools and frameworks, some more important than others, so learning a couple (based on your interest) might be very beneficial
 
-Depending on your backround, you might be able to transfer many of your existing skills over. For example, I came from a traditional IT operations background so I was able to translate that to the cloud (by picking up some cloud certifications) but I needed to work hard to develop my code skills (of which I had none) and I also had to learn a couple of cloud tools.
+Depending on your background, you might be able to transfer many of your existing skills over. For example, I came from a traditional IT operations background so I was able to translate that to the cloud (by picking up some cloud certifications) but I needed to work hard to develop my code skills (of which I had none) and I also had to learn a couple of cloud tools.
 
 {{< figure src="/images/yoda.jpg" caption="Yoda is right, but it is not as bad as he thinks"  >}}
 
