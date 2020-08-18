@@ -4,7 +4,7 @@ date: '2020-05-16'
 thumb_img_path: images/do-not-become-a-web-developer.png
 content_img_path: images/do-not-become-a-web-developer.png
 excerpt: >-
-  Inerested in transitioning into development? Web development is all the rage, but cloud development is what you need to be considering instead
+  Interested in transitioning into development? Web development is all the rage, but cloud development is what you need to be considering instead
 layout: post
 ---
 
